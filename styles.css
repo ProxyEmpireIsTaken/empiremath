@@ -34,6 +34,7 @@ h1{
     padding: 0;
     background: #4e54c8;
     overflow: hidden;
+  z-index: 2;
 }
 .background li {
     position: absolute;
@@ -43,6 +44,7 @@ h1{
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
     animation: animate 19s linear infinite;
+  z-index: 2;
 }
 
 
